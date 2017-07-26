@@ -1,9 +1,9 @@
 {
-  "name": "cordova-sqlite-storage",
+  "name": "cordova-sqlite-storage-pgb",
   "version": "2.0.4",
-  "description": "Native interface to SQLite for PhoneGap/Cordova",
+  "description": "Native interface to SQLite for PhoneGap/Cordova (Phonegap Build compatible)",
   "cordova": {
-    "id": "cordova-sqlite-storage",
+    "id": "cordova-sqlite-storage-pgb",
     "platforms": [
       "android",
       "ios",
@@ -12,24 +12,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/litehelpers/Cordova-sqlite-storage.git"
+    "url": "https://github.com/mendix/Cordova-sqlite-storage-pgb.git"
   },
   "keywords": [
     "sqlite",
     "ecosystem:cordova",
     "cordova-android",
     "cordova-ios",
-    "cordova-windows"
+    "cordova-windows",
+    "phonegap-build"
   ],
   "author": "various",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/litehelpers/Cordova-sqlite-storage/issues"
+    "url": "https://github.com/mendix/Cordova-sqlite-storage-pgb/issues"
   },
-  "homepage": "https://github.com/litehelpers/Cordova-sqlite-storage",
-  "dependencies": {
-    "cordova-sqlite-storage-dependencies": "1.0.4"
-  },
+  "homepage": "https://github.com/mendix/Cordova-sqlite-storage-pgb",
   "scripts": {
     "start": "node scripts/prepareSpec.js"
   },
