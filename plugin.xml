@@ -4,7 +4,7 @@
     id="cordova-sqlite-storage"
     version="2.0.4">
 
-    <name>Cordova sqlite storage plugin</name>
+    <name>Cordova sqlite storage plugin (Mendix fork)</name>
 
     <license>MIT</license>
 
