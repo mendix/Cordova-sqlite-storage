@@ -1,7 +1,7 @@
 {
   "name": "@mendix/cordova-sqlite-storage",
-  "version": "2.0.4",
-  "description": "Native interface to SQLite for PhoneGap/Cordova (Phonegap Build compatible)",
+  "version": "2.0.4-mx.1.0.0",
+  "description": "Native interface to SQLite for PhoneGap/Cordova",
   "cordova": {
     "id": "cordova-sqlite-storage-pgb",
     "platforms": [
